@@ -1,4 +1,4 @@
-# Cypress with Cucumber BDD and AWS Amplify Console - CI/CD Pipeline
+# WaveLF-testing with cypress and BDD cucumber
 
 # Dependencies:
 1. npm install
