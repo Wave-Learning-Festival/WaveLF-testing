@@ -15,6 +15,8 @@
 3. click specific feature file [executionwillstart]
 
 # Cmmd line execution using npm scripts:
+Reference package.json
+
 # mochawesome report execution
 1. npm run test:mochawesomereport
 
