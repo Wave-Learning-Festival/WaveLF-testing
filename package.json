@@ -23,6 +23,11 @@
   "author": "Charles Li",
   "license": "ISC",
   "dependencies": {
+    "acorn": "^8.0.1",
+    "elliptic": "^6.5.3",
+    "lodash": "^4.17.20",
+    "mem": "^6.1.1",
+    "minimist": "^1.2.5",
     "mochawesome-report-generator": "^4.1.0",
     "npm-run-all": "^4.1.2",
     "serve": "11.3.0"
