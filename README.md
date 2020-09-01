@@ -9,9 +9,6 @@
 1. go to cypress.json file
 2. set baseurl
 
-# Folder structure
-![Screenshot](cypress/screenshots/structure.png?raw=true "FolderStructure")
-
 # Dashboard execution[Test runner]:
 1. Go to project root, 
 2. npx cypress open
@@ -48,14 +45,3 @@ We can cover visual testing with cypress using `cypress-image-snapshot` node_mod
 
 # Reference
 - [Detailed Article](https://medium.com/@vinayaktitti/getting-started-with-cypress-and-cucumber-api-2d7057e34047)
-
-
-# Allure Reports:
-
-![Screenshot](cypress/screenshots/allure.png?raw=true "Allure")
-
-# Cucumber HTML Reports:
-
-![Screenshot](cypress/screenshots/html1.png?raw=true "Cucumber HTML")
-![Screenshot](cypress/screenshots/html2.png?raw=true "Cucumber HTML")
-
